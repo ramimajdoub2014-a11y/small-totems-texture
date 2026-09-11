@@ -1,0 +1,10 @@
+{
+  "pack": {
+    "pack_format": 26,
+    "description": "§cSmall Totems§r - Compact totem textures for PvP",
+    "supported_formats": {
+      "min_inclusive": 26,
+      "max_inclusive": 26
+    }
+  }
+}
